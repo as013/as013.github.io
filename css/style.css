@@ -13,7 +13,13 @@ body {
 }
 
 #box-content {
-  background: darkblue;
+  color: white;
+  display: table;
+  height: 600px;
+  width: 100%;
+}
+
+#box-content {
   color: white;
   display: table;
   height: 600px;
