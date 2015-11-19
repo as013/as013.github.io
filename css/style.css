@@ -41,7 +41,6 @@ body {
 .goToTop {
   position: fixed;
   top: 0;
-  height: 70px;
   z-index: 1;
 }
 nav {
