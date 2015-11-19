@@ -11,3 +11,33 @@ body {
   height: 300px;
   width: 100%;
 }
+
+#box-content {
+  background: darkblue;
+  color: white;
+  display: table;
+  height: 600px;
+  width: 100%;
+}
+
+.text-vcenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.text-vcenter h1 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #fff;
+}
+
+nav li { background: #f8f8f8; }
