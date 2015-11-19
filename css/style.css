@@ -15,7 +15,7 @@ body {
 #box-content {
   background: #C5CAE9;
   color: white;
-  display: table;
+  box-sizing: border-box;
   height: 600px;
   width: 100%;
 }
