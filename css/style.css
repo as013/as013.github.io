@@ -44,11 +44,4 @@ body {
   height: 50px;
   z-index: 1;
 }
-nav {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background: #fff;
-}
 
-nav li { background: #f8f8f8; }
