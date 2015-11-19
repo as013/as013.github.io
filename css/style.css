@@ -39,10 +39,10 @@ body {
   padding: 0;
 }
 
-.navbar-default .navbar-nav>li>a {
-  color:rgba(0,0,0,0.87);
-}
-
 .navbar-default {
   background-color:#E8EAF6;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color:rgba(0,0,0,0.87);
 }
