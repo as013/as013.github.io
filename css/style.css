@@ -46,3 +46,7 @@ body {
 .navbar-default .navbar-nav>li>a {
   color:rgba(0,0,0,0.87);
 }
+
+.navbar-fixed-top {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+}
