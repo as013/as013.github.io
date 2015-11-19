@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#box-header {
+  background: darkblue;
+  color: white;
+  display: table;
+  height: 300px;
+  width: 100%;
+}
