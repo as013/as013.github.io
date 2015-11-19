@@ -13,6 +13,7 @@ body {
 }
 
 #box-content {
+  background: #C5CAE9;
   color: white;
   display: table;
   height: 600px;
