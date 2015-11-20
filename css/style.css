@@ -7,7 +7,7 @@ body {
 #box-header {
   background: #3F51B5;
   color: white;
-  display: table;
+  box-sizing: border-box;
   min-height: 150px;
   width: 100%;
 }
@@ -17,13 +17,6 @@ body {
   color: white;
   box-sizing: border-box;
   padding:20px 0;
-  height: 600px;
-  width: 100%;
-}
-
-#box-content1 {
-  color: white;
-  display: table;
   height: 600px;
   width: 100%;
 }
